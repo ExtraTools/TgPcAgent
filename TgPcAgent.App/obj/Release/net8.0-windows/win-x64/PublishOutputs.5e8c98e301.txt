@@ -1,0 +1,5 @@
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.App\bin\Release\net8.0-windows\win-x64\publish\TgPcAgent.App.pdb
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.App\bin\Release\net8.0-windows\win-x64\publish\MonoPosixHelper.dll
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.App\bin\Release\net8.0-windows\win-x64\publish\libMonoPosixHelper.dll
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.App\bin\Release\net8.0-windows\win-x64\publish\TgPcAgent.Core.pdb
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.App\bin\Release\net8.0-windows\win-x64\publish\TgPcAgent.App.exe

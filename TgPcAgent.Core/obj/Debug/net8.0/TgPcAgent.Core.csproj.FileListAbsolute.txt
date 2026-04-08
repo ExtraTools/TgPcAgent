@@ -1,0 +1,11 @@
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\bin\Debug\net8.0\TgPcAgent.Core.deps.json
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\bin\Debug\net8.0\TgPcAgent.Core.dll
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\bin\Debug\net8.0\TgPcAgent.Core.pdb
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\obj\Debug\net8.0\TgPcAgent.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\obj\Debug\net8.0\TgPcAgent.Core.AssemblyInfoInputs.cache
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\obj\Debug\net8.0\TgPcAgent.Core.AssemblyInfo.cs
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\obj\Debug\net8.0\TgPcAgent.Core.csproj.CoreCompileInputs.cache
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\obj\Debug\net8.0\TgPcAgent.Core.dll
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\obj\Debug\net8.0\refint\TgPcAgent.Core.dll
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\obj\Debug\net8.0\TgPcAgent.Core.pdb
+C:\Users\Somni\Desktop\AI\TelegramBOT\TgPcAgent.Core\obj\Debug\net8.0\ref\TgPcAgent.Core.dll
