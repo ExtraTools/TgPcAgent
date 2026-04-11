@@ -6,4 +6,4 @@
 [![Bot Link](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/WaitDino_bot)
 
 ---
-Rewrite README.md
+# Rewrite README.md
